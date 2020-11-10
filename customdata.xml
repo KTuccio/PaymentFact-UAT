@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:113</property><property name="BMTFW_Layout"><![CDATA[string:[Database Layer].[ACCOUNTING]
+	dx=158,109
+	expanded=t
+	parent=Database Layer
+	x=421,848
+[Database Layer].[ACTIVITY]
+	dx=166,73
+	expanded=t
+	parent=Database Layer
+	x=863,502
+[Database Layer].[BLDIV_DIVISION]
+	dx=183,116
+	expanded=t
+	parent=Database Layer
+	x=245,679
+[Database Layer].[BOMCOMPONENT]
+	dx=195,62
+	expanded=t
+	parent=Database Layer
+	x=895,222
+[Database Layer].[COMPONENT]
+	dx=170,79
+	expanded=t
+	parent=Database Layer
+	x=877,299
+[Database Layer].[CONTRACT]
+	dx=122,94
+	expanded=t
+	parent=Database Layer
+	x=821,141
+[]
+	NavigationRect=0,0,300,305
+	Notation=4
+	ShowGrid=1
+	Snap=1
+	font=Arial Narrow
+	lod=33
+	tc=323232
+	viewStyle=2
+[Database Layer].[CONTRACT_PRODID]
+	dx=180,122
+	expanded=t
+	parent=Database Layer
+	x=611,848
+[Database Layer].[COUNTRY]
+	dx=158,89
+	expanded=t
+	parent=Database Layer
+	x=39,512
+[Database Layer].[CURRENCY]
+	dx=171,102
+	expanded=t
+	parent=Database Layer
+	x=860,759
+[Database Layer].[CUSTOMERS]
+	dx=172,81
+	expanded=t
+	parent=Database Layer
+	x=274,451
+[Database Layer].[CYCLEDATES]
+	dx=165,82
+	expanded=t
+	parent=Database Layer
+	x=174,236
+[Database Layer].[DATATYPE]
+	dx=147,105
+	expanded=t
+	parent=Database Layer
+	x=259,834
+[Database Layer].[DATES]
+	dx=173,76
+	expanded=t
+	parent=Database Layer
+	x=62,305
+[Database Layer].[DIVISION]
+	dx=137,73
+	expanded=t
+	parent=Database Layer
+	x=278,575
+[Database Layer].[FIXEDFEEATTR]
+	dx=176,78
+	expanded=t
+	parent=Database Layer
+	x=859,409
+[Database Layer].[LICENSE]
+	dx=116,117
+	expanded=t
+	parent=Database Layer
+	x=240,119
+[Database Layer].[PART]
+	dx=168,73
+	expanded=t
+	parent=Database Layer
+	x=855,588
+[Database Layer].[PAYMENTFACT]
+	dx=172,208
+	expanded=t
+	parent=Database Layer
+	x=557,463
+[Database Layer].[RATEDETAILS]
+	dx=167,83
+	expanded=t
+	parent=Database Layer
+	x=356,108
+[Database Layer].[TXPRODID]
+	dx=161,94
+	expanded=t
+	parent=Database Layer
+	x=799,868
+[Database Layer].[INTERNAL_COMMERCIAL]
+	dx=155,88
+	expanded=t
+	parent=Database Layer
+	x=41,411
+[Database Layer].[APPLIANCE]
+	dx=133,98
+	expanded=t
+	parent=Database Layer
+	x=539,83
+[Database Layer].[TXTYPE]
+	dx=130,76
+	expanded=t
+	parent=Database Layer
+	x=686,85
+[Database Layer].[PAYMENT_CURRENCY]
+	dx=184,82
+	expanded=t
+	parent=Database Layer
+	x=856,676
+[Database Layer].[START MONTH]
+	dx=172,64
+	expanded=t
+	parent=QS for ParameterMap
+	x=10,43
+[Database Layer].[END MONTH]
+	dx=172,64
+	expanded=t
+	parent=QS for ParameterMap
+	x=10,115
+[Database Layer].[QS for ParameterMap]
+	c=9bdfc4
+	dx=192,189
+	expanded=t
+	parent=Database Layer
+	x=10,24
+[Database Layer]
+	c=9bdfc4
+	dx=943,878
+	expanded=t
+	parent=ROWPrelimPaymentFact
+	view=111,347
+	x=9,48
+	zoom=1.000000
+[Modelling Layer].[Payments]
+	dx=269,208
+	expanded=t
+	parent=Modelling Layer
+	x=10,111
+[Modelling Layer].[Customer Data]
+	dx=180,207
+	expanded=t
+	parent=Modelling Layer
+	x=26,81
+[Modelling Layer]
+	c=9bdfc4
+	dx=287,328
+	expanded=t
+	parent=ROWPrelimPaymentFact
+	view=0,0
+	x=9,729
+	zoom=1.000000
+[Business Layer].[Filters]
+	c=9bdfc4
+	dx=94,36
+	expanded=t
+	parent=Business Layer
+	x=26,26
+[Business Layer].[Global Filters]
+	c=d8a77d
+	dx=94,36
+	expanded=t
+	parent=Business Layer
+	x=51,51
+[Business Layer].[Payments]
+	dx=269,208
+	expanded=t
+	parent=Business Layer
+	x=10,57
+[Business Layer].[Customer Data]
+	dx=180,207
+	expanded=t
+	parent=Business Layer
+	x=77,77
+[Business Layer]
+	c=d8a77d
+	dx=287,293
+	expanded=t
+	parent=ROWPrelimPaymentFact
+	x=875,48
+[ROWPrelimPaymentFact]
+	view=0,0
+	zoom=1.000000
+]]></property></object></namespace></bmtcustomdata>
